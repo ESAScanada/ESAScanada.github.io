@@ -7,6 +7,7 @@
   <!-- CSS and JavaScript links -->
   <link rel="stylesheet" href="css/styles.css">
   <script src="js/script.js"></script>
+  <script src="https://kit.fontawesome.com/96b53727a1.js" crossorigin="anonymous"></script>
 </head>
 <body>
   <header>
